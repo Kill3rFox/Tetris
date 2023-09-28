@@ -1,6 +1,0 @@
-﻿  tetris_proj.cpp
-C:\Users\lgosl\source\repos\tetris_proj\tetris_proj\tetris_proj.cpp(141,80): warning C4390: ';': empty controlled statement found; is this the intent?
-C:\Users\lgosl\source\repos\tetris_proj\tetris_proj\tetris_proj.cpp(149,80): warning C4390: ';': empty controlled statement found; is this the intent?
-C:\Users\lgosl\source\repos\tetris_proj\tetris_proj\tetris_proj.cpp(157,80): warning C4390: ';': empty controlled statement found; is this the intent?
-C:\Users\lgosl\source\repos\tetris_proj\tetris_proj\tetris_proj.cpp(166,96): warning C4390: ';': empty controlled statement found; is this the intent?
-  tetris_proj.vcxproj -> C:\Users\lgosl\source\repos\tetris_proj\x64\Debug\tetris_proj.exe
